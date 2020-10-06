@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyMaker", "MoneyMaker\MoneyMaker.csproj", "{3CDD6740-80FC-4D96-854E-1C08F7FA20DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDD6740-80FC-4D96-854E-1C08F7FA20DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDD6740-80FC-4D96-854E-1C08F7FA20DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDD6740-80FC-4D96-854E-1C08F7FA20DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDD6740-80FC-4D96-854E-1C08F7FA20DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7FCF435-018E-4760-B213-AD1E0944FE44}
+	EndGlobalSection
+EndGlobal
